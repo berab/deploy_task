@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pt-task-berab/static/css/main.073c9b0a.css",
+    "main.js": "/pt-task-berab/static/js/main.2e6cc49f.js",
+    "static/js/787.bfc1d834.chunk.js": "/pt-task-berab/static/js/787.bfc1d834.chunk.js",
+    "index.html": "/pt-task-berab/index.html",
+    "main.073c9b0a.css.map": "/pt-task-berab/static/css/main.073c9b0a.css.map",
+    "main.2e6cc49f.js.map": "/pt-task-berab/static/js/main.2e6cc49f.js.map",
+    "787.bfc1d834.chunk.js.map": "/pt-task-berab/static/js/787.bfc1d834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e6cc49f.js"
+  ]
+}
